@@ -1,1 +1,2 @@
-web: sh setup.sh && streamlit run secure_app.py
+echo PORT $PORT
+streamlit run  --server.port $PORT secure_app.py

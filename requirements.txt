@@ -1,5 +1,0 @@
-hydralit 
-hydralit_components 
-streamlit==1.10
-numpy
-pandas
